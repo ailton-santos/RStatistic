@@ -1,5 +1,5 @@
 # Statistical Inference
-## High School emphasis in Statistics
+## High School - Emphasis in Statistics
 
 ### Ailton Santos
 
